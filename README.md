@@ -10,4 +10,4 @@ This repo demonstrates how to incorporate a fork of react-native-webview into an
 
     - react-native-webview/index.js
     - react-native-webview/index.d.ts 
-    - Also see the following issue: https://github.com/react-native-webview/react-native-webview/issues/1163
+    - See the following issue: https://github.com/react-native-webview/react-native-webview/issues/1163
