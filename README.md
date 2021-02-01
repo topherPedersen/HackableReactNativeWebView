@@ -6,4 +6,8 @@ This repo demonstrates how to incorporate a fork of react-native-webview into an
 
 2) Downloading react-native-webview as a .zip, decompressing it, then moving it to the same parent directory as my react-native app
 
-3) In order to get this to work, I needed to change "lib" to "src" in a couple of places. See react-native/webview/index.js. Also see the following issue: https://github.com/react-native-webview/react-native-webview/issues/1163
+3) In order to get this to work, I needed to change "lib" to "src" in a few places: 
+
+    - react-native-webview/index.js
+    - react-native-webview/index.d.ts 
+    - Also see the following issue: https://github.com/react-native-webview/react-native-webview/issues/1163
